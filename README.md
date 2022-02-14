@@ -10,6 +10,7 @@ Auto Follow
 
 Note: 
 ```bash
+$ npm install
 $ unzip node_modules.zip
 $ node index.js
 ```
